@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 
-# This exercise is about learning
+# This exercise is about learning abstract classes
+# and abstract method
 
 
 class Character(ABC):

@@ -1,5 +1,9 @@
 from S1E9 import Character
 
+# This exercise is about learning __repr__,
+# __str__, static method and contructor-like
+# function
+
 
 class Baratheon(Character):
     '''Representing the Baratheon family.'''
