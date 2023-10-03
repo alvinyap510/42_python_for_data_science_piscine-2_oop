@@ -4,6 +4,10 @@ This exercise is about learning operator overloading.
 
 
 class calculator:
+    '''
+    Calculator class that has its mathematic operators implementation
+    overriden.
+    '''
 
     def __init__(self, num_array: list[float]):
         '''
