@@ -34,7 +34,7 @@ class Baratheon(Character):
     def __str__(self):
         """
         ***
-        Return the detailed read-friendly description of 
+        Return the detailed read-friendly description of
         the class
         ***
         """
@@ -80,7 +80,7 @@ class Lannister(Character):
     def __str__(self):
         """
         ***
-        Return the detailed read-friendly description of 
+        Return the detailed read-friendly description of
         the class
         ***
         """
