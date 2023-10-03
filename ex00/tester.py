@@ -12,4 +12,11 @@ print("---")
 Lyanna = Stark("Lyanna", False)
 print(Lyanna.__dict__)
 
-# print(dir(Ned))
+# # print(dir(Ned))
+
+# from S1E9 import Character
+
+# try:
+#     hodor = Character("hodor")
+# except Exception as e:
+#     print(f"{type(e).__name__}: {e}")
